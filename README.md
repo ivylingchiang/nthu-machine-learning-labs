@@ -31,4 +31,4 @@ Each `ML_HW*` folder contains:
 
 ## Final project
 
-**[Handwritten Mathematical Expression Recognition](https://github.com/ivylingchiang/NTHU_CS_MachineLearning)** converts images of handwritten formulas to LaTeX. It uses a CNN encoder and an attention-based RNN decoder.
+**[Handwritten Mathematical Expression Recognition](https://github.com/ivylingchiang/handwritten-math-recognition)** converts images of handwritten formulas to LaTeX. It uses a CNN encoder and an attention-based RNN decoder.
